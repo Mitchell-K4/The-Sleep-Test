@@ -45,7 +45,7 @@ Language | C#
 Game Engine | Unity
 Development Environment | Visual Studio 2019 Community Edition
 Target Environment | Android mobile devices
-Target Industry | Educational Software
+Target Industry | Education
 
 ## Contact Information
 Contact | Information
